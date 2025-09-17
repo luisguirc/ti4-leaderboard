@@ -4,7 +4,7 @@
 - [Games](#games)
 - [License](#license)
 
-Last updated 2025-09-17 15:48 UTC.
+Last updated 2025-09-17 16:00 UTC.
 
 # Players
 
@@ -19,7 +19,7 @@ Last updated 2025-09-17 15:48 UTC.
 
 | **Player** | **Games** | **Curr. Rating** | **Avg Rating** | **Avg Pts.** | **Win Rate** | **1st Place** | **2nd Place** | **3rd Place** |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Mrcio | 3 | 1114 | 1130 | 8.00 | 33% | 33% (1) | 33% (1) | 33% (1) |
+| Marcio | 3 | 1114 | 1130 | 8.00 | 33% | 33% (1) | 33% (1) | 33% (1) |
 | Alexandre | 5 | 997 | 1108 | 7.20 | 30% | 40% (2) | 20% (1) | 0% (0) |
 | Lucas | 1 | 1107 | 1107 | 10.00 | 83% | 100% (1) | 0% (0) | 0% (0) |
 | Giovanna | 2 | 1093 | 1075 | 9.00 | 0% | 0% (0) | 100% (2) | 0% (0) |
@@ -139,9 +139,9 @@ Effective win rates are calculated relative to 6-player games.
 
 | **Game** | **Date** | **Mode** | **Points** | **Players** | **Results** |
 | :---: | :---: | :---: | :---: | :---: | :--- |
-| 8 | 2025-09-14 | Free-for-All | 10 | 3 | 6h24m, 1st Luis 10 Naalu Collective, 2nd Torugo 8 Nomad, 3rd Mrcio 7 Ghosts of Creuss |
-| 7 | 2025-05-02 | Free-for-All | 10 | 6 | 9h38m, 1st Mrcio 10 Xxcha Kingdom, 2nd GabrielGodoy 9 Vuil'raith Cabal, 3rd Luis 8 Ghosts of Creuss, 4th PedroGodoy 5 Barony of Letnev, 5th Alexandre 4 Arborec, 6th Nathan 3 Federation of Sol |
-| 6 | 2025-04-19 | Free-for-All | 10 | 5 | 8h12m, 1st Luis 10 Arborec, 2nd Mrcio 7 Xxcha Kingdom, 3rd Kendy 6 Emirates of Hacan, 4th Alexandre 4 Vuil'raith Cabal, 5th Jota 2 Nekro Virus |
+| 8 | 2025-09-14 | Free-for-All | 10 | 3 | 6h24m, 1st Luis 10 Naalu Collective, 2nd Torugo 8 Nomad, 3rd Marcio 7 Ghosts of Creuss |
+| 7 | 2025-05-02 | Free-for-All | 10 | 6 | 9h38m, 1st Marcio 10 Xxcha Kingdom, 2nd GabrielGodoy 9 Vuil'raith Cabal, 3rd Luis 8 Ghosts of Creuss, 4th PedroGodoy 5 Barony of Letnev, 5th Alexandre 4 Arborec, 6th Nathan 3 Federation of Sol |
+| 6 | 2025-04-19 | Free-for-All | 10 | 5 | 8h12m, 1st Luis 10 Arborec, 2nd Marcio 7 Xxcha Kingdom, 3rd Kendy 6 Emirates of Hacan, 4th Alexandre 4 Vuil'raith Cabal, 5th Jota 2 Nekro Virus |
 | 5 | 2025-03-04 | Free-for-All | 10 | 5 | 9h43m, 1st Lucas 10 Embers of Muaat, 2nd Giovanna 9 Federation of Sol, 3rd Luis 8 Mahact Gene-Sorcerers, 4th Hiago 6 Xxcha Kingdom, 5th Luana 6 Empyrean |
 | 4 | 2024-12-22 | Free-for-All | 10 | 4 | 7h27m, 1st Alexandre 10 Federation of Sol, 2nd Douglas 9 Xxcha Kingdom, 3rd Luis 7 Clan of Saar, 4th Nathan 6 Federation of Sol |
 | 3 | 2024-10-19 | Free-for-All | 10 | 5 | 10h46m, 1st GabrielGodoy 10 Naalu Collective, 2nd Giovanna 9 Universities of Jol-Nar, 3rd Luis 7 Titans of Ul, 4th Jean 7 Xxcha Kingdom, 5th Felipe 5 Federation of Sol |
