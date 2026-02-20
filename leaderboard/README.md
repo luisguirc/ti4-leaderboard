@@ -4,7 +4,7 @@
 - [Games](#games)
 - [License](#license)
 
-Last updated 2025-10-21 00:20 UTC.
+Last updated 2026-02-20 02:26 UTC.
 
 # Players
 
@@ -19,24 +19,25 @@ Last updated 2025-10-21 00:20 UTC.
 
 | **Player** | **Games** | **Curr. Rating** | **Avg Rating** | **Avg Pts.** | **Win Rate** | **1st Place** | **2nd Place** | **3rd Place** |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Marcio | 4 | 1232 | 1156 | 8.50 | 50% | 50% (2) | 25% (1) | 25% (1) |
+| Marcio | 5 | 1294 | 1183 | 8.80 | 57% | 60% (3) | 20% (1) | 20% (1) |
 | Nana | 1 | 1119 | 1119 | 9.00 | 0% | 0% (0) | 100% (1) | 0% (0) |
 | Lucas | 1 | 1107 | 1107 | 10.00 | 83% | 100% (1) | 0% (0) | 0% (0) |
-| Luis | 9 | 1178 | 1076 | 8.22 | 15% | 22% (2) | 11% (1) | 56% (5) |
+| Luis | 11 | 1235 | 1102 | 8.36 | 17% | 27% (3) | 18% (2) | 45% (5) |
 | Giovanna | 2 | 1093 | 1075 | 9.00 | 0% | 0% (0) | 100% (2) | 0% (0) |
 | Alexandre | 6 | 895 | 1073 | 7.33 | 25% | 33% (2) | 17% (1) | 0% (0) |
+| GabrielGodoy | 5 | 1094 | 1047 | 7.40 | 17% | 20% (1) | 20% (1) | 20% (1) |
 | Douglas | 1 | 1047 | 1047 | 9.00 | 0% | 0% (0) | 100% (1) | 0% (0) |
-| GabrielGodoy | 4 | 1091 | 1036 | 7.25 | 21% | 25% (1) | 25% (1) | 0% (0) |
 | Torugo | 1 | 1029 | 1029 | 8.00 | 0% | 0% (0) | 100% (1) | 0% (0) |
 | Guilherme | 2 | 1091 | 1022 | 7.00 | 42% | 50% (1) | 0% (0) | 0% (0) |
-| Matheus | 1 | 1011 | 1011 | 7.00 | 0% | 0% (0) | 0% (0) | 100% (1) |
-| PedroGodoy | 1 | 1006 | 1006 | 5.00 | 0% | 0% (0) | 0% (0) | 0% (0) |
+| Chris | 1 | 1019 | 1019 | 9.00 | 0% | 0% (0) | 100% (1) | 0% (0) |
 | Kendy | 2 | 974 | 999 | 7.00 | 0% | 0% (0) | 0% (0) | 50% (1) |
+| PedroGodoy | 2 | 981 | 994 | 6.00 | 0% | 0% (0) | 0% (0) | 0% (0) |
+| Matheus | 2 | 963 | 987 | 7.00 | 0% | 0% (0) | 0% (0) | 100% (2) |
 | Hiago | 1 | 947 | 947 | 6.00 | 0% | 0% (0) | 0% (0) | 0% (0) |
 | Jean | 1 | 945 | 945 | 7.00 | 0% | 0% (0) | 0% (0) | 0% (0) |
 | Nathan | 3 | 848 | 936 | 5.67 | 0% | 0% (0) | 0% (0) | 33% (1) |
-| Jota | 1 | 902 | 902 | 2.00 | 0% | 0% (0) | 0% (0) | 0% (0) |
 | Felipe | 1 | 881 | 881 | 5.00 | 0% | 0% (0) | 0% (0) | 0% (0) |
+| Jota | 2 | 849 | 875 | 2.00 | 0% | 0% (0) | 0% (0) | 0% (0) |
 | Luana | 2 | 820 | 859 | 6.00 | 0% | 0% (0) | 0% (0) | 0% (0) |
 
 Average victory points per game are adjusted relative to 10-point games, and effective win rates are calculated relative to 6-player games.
@@ -82,15 +83,17 @@ Effective win rates are calculated relative to 6-player games.
 | Naaz-Rokha Alliance | 1 | 1116 | 1116 | 10.00 | 100% | 100% (1) | 0% (0) | 0% (0) |
 | L1z1x Mindnet | 1 | 1112 | 1112 | 10.00 | 83% | 100% (1) | 0% (0) | 0% (0) |
 | Embers of Muaat | 2 | 1145 | 1104 | 9.00 | 42% | 50% (1) | 50% (1) | 0% (0) |
+| Yin Brotherhood | 1 | 1100 | 1100 | 10.00 | 83% | 100% (1) | 0% (0) | 0% (0) |
 | Universities of Jol-Nar | 2 | 1104 | 1083 | 8.50 | 0% | 0% (0) | 100% (2) | 0% (0) |
+| Ral-Nel Consortium | 1 | 1055 | 1055 | 10.00 | 50% | 100% (1) | 0% (0) | 0% (0) |
 | Arborec | 2 | 989 | 1047 | 7.00 | 42% | 50% (1) | 0% (0) | 0% (0) |
+| Sardakk N'orr | 2 | 1057 | 1034 | 7.50 | 0% | 0% (0) | 50% (1) | 50% (1) |
 | Argent Flight | 1 | 1021 | 1021 | 8.00 | 0% | 0% (0) | 0% (0) | 100% (1) |
 | Nomad | 1 | 1016 | 1016 | 8.00 | 0% | 0% (0) | 100% (1) | 0% (0) |
 | Titans of Ul | 1 | 1012 | 1012 | 7.00 | 0% | 0% (0) | 0% (0) | 100% (1) |
-| Sardakk N'orr | 1 | 1011 | 1011 | 7.00 | 0% | 0% (0) | 0% (0) | 100% (1) |
 | Emirates of Hacan | 1 | 1003 | 1003 | 6.00 | 0% | 0% (0) | 0% (0) | 100% (1) |
 | Mahact Gene-Sorcerers | 1 | 1003 | 1003 | 8.00 | 0% | 0% (0) | 0% (0) | 100% (1) |
-| Vuil'raith Cabal | 2 | 1061 | 1003 | 6.50 | 0% | 0% (0) | 50% (1) | 0% (0) |
+| Vuil'raith Cabal | 3 | 974 | 993 | 6.67 | 0% | 0% (0) | 33% (1) | 0% (0) |
 | Ghosts of Creuss | 3 | 901 | 976 | 7.67 | 0% | 0% (0) | 0% (0) | 67% (2) |
 | Mentak Coalition | 1 | 968 | 968 | 8.00 | 0% | 0% (0) | 0% (0) | 0% (0) |
 | Barony of Letnev | 2 | 962 | 957 | 4.50 | 0% | 0% (0) | 0% (0) | 0% (0) |
@@ -98,8 +101,9 @@ Effective win rates are calculated relative to 6-player games.
 | Federation of Sol | 7 | 772 | 955 | 7.29 | 21% | 29% (2) | 14% (1) | 14% (1) |
 | Yssaril Tribes | 2 | 1006 | 946 | 7.50 | 0% | 0% (0) | 50% (1) | 0% (0) |
 | Xxcha Kingdom | 7 | 1134 | 944 | 7.00 | 14% | 14% (1) | 29% (2) | 0% (0) |
-| Nekro Virus | 1 | 881 | 881 | 2.00 | 0% | 0% (0) | 0% (0) | 0% (0) |
-| Empyrean | 1 | 880 | 880 | 6.00 | 0% | 0% (0) | 0% (0) | 0% (0) |
+| Deepwrought Scholarate | 1 | 932 | 932 | 7.00 | 0% | 0% (0) | 0% (0) | 100% (1) |
+| Empyrean | 3 | 938 | 913 | 7.67 | 0% | 0% (0) | 33% (1) | 33% (1) |
+| Nekro Virus | 2 | 800 | 840 | 2.00 | 0% | 0% (0) | 0% (0) | 0% (0) |
 
 Average victory points per game are adjusted relative to 10-point games, and effective win rates are calculated relative to 6-player games.
 
@@ -143,6 +147,8 @@ Effective win rates are calculated relative to 6-player games.
 
 | **Game** | **Date** | **Mode** | **Points** | **Players** | **Results** |
 | :---: | :---: | :---: | :---: | :---: | :--- |
+| 11 | 2026-02-16 | Free-for-All | 10 | 3 | 12h06m, 1st Luis 10 Ral-Nel Consortium, 2nd Chris 9 Empyrean, 3rd Matheus 7 Deepwrought Scholarate |
+| 10 | 2025-12-20 | Free-for-All | 10 | 5 | 9h52m, 1st Marcio 10 Yin Brotherhood, 2nd Luis 8 Sardakk N'orr, 3rd GabrielGodoy 8 Empyrean, 4th PedroGodoy 7 Vuil'raith Cabal, 5th Jota 2 Nekro Virus |
 | 9 | 2025-10-19 | Free-for-All | 10 | 6 | 9h09m, 1st Marcio 10 Naaz-Rokha Alliance, 2nd Nana 9 Yssaril Tribes, 3rd Luis 8 Argent Flight, 4th GabrielGodoy 8 Mentak Coalition, 5th Kendy 8 Ghosts of Creuss, 6th Alexandre 8 Federation of Sol |
 | 8 | 2025-09-14 | Free-for-All | 10 | 3 | 6h24m, 1st Luis 10 Naalu Collective, 2nd Torugo 8 Nomad, 3rd Marcio 7 Ghosts of Creuss |
 | 7 | 2025-05-02 | Free-for-All | 10 | 6 | 9h38m, 1st Marcio 10 Xxcha Kingdom, 2nd GabrielGodoy 9 Vuil'raith Cabal, 3rd Luis 8 Ghosts of Creuss, 4th PedroGodoy 5 Barony of Letnev, 5th Alexandre 4 Arborec, 6th Nathan 3 Federation of Sol |
