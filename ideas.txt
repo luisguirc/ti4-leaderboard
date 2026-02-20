@@ -1,0 +1,3 @@
+Trackear
+1. Tempo por jogador
+2. Modo de jogo (normal/twilights fall)
