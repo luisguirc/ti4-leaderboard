@@ -4,7 +4,7 @@
 - [Games](#games)
 - [License](#license)
 
-Last updated 2026-02-20 02:26 UTC.
+Last updated 2026-05-22 20:07 UTC.
 
 # Players
 
@@ -79,30 +79,30 @@ Effective win rates are calculated relative to 6-player games.
 
 | **Faction** | **Games** | **Curr. Rating** | **Avg Rating** | **Avg Pts.** | **Win Rate** | **1st Place** | **2nd Place** | **3rd Place** |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Naalu Collective | 2 | 1160 | 1137 | 10.00 | 67% | 100% (2) | 0% (0) | 0% (0) |
-| Naaz-Rokha Alliance | 1 | 1116 | 1116 | 10.00 | 100% | 100% (1) | 0% (0) | 0% (0) |
+| Naalu Collective | 2 | 1159 | 1137 | 10.00 | 67% | 100% (2) | 0% (0) | 0% (0) |
+| Naaz-Rokha Alliance | 1 | 1114 | 1114 | 10.00 | 100% | 100% (1) | 0% (0) | 0% (0) |
 | L1z1x Mindnet | 1 | 1112 | 1112 | 10.00 | 83% | 100% (1) | 0% (0) | 0% (0) |
-| Embers of Muaat | 2 | 1145 | 1104 | 9.00 | 42% | 50% (1) | 50% (1) | 0% (0) |
-| Yin Brotherhood | 1 | 1100 | 1100 | 10.00 | 83% | 100% (1) | 0% (0) | 0% (0) |
-| Universities of Jol-Nar | 2 | 1104 | 1083 | 8.50 | 0% | 0% (0) | 100% (2) | 0% (0) |
-| Ral-Nel Consortium | 1 | 1055 | 1055 | 10.00 | 50% | 100% (1) | 0% (0) | 0% (0) |
-| Arborec | 2 | 989 | 1047 | 7.00 | 42% | 50% (1) | 0% (0) | 0% (0) |
-| Sardakk N'orr | 2 | 1057 | 1034 | 7.50 | 0% | 0% (0) | 50% (1) | 50% (1) |
-| Argent Flight | 1 | 1021 | 1021 | 8.00 | 0% | 0% (0) | 0% (0) | 100% (1) |
+| Universities of Jol-Nar | 3 | 1155 | 1107 | 9.00 | 22% | 33% (1) | 67% (2) | 0% (0) |
+| Embers of Muaat | 2 | 1143 | 1103 | 9.00 | 42% | 50% (1) | 50% (1) | 0% (0) |
+| Yin Brotherhood | 1 | 1099 | 1099 | 10.00 | 83% | 100% (1) | 0% (0) | 0% (0) |
+| Ral-Nel Consortium | 1 | 1054 | 1054 | 10.00 | 50% | 100% (1) | 0% (0) | 0% (0) |
+| Arborec | 2 | 985 | 1045 | 7.00 | 42% | 50% (1) | 0% (0) | 0% (0) |
+| Sardakk N'orr | 2 | 1056 | 1034 | 7.50 | 0% | 0% (0) | 50% (1) | 50% (1) |
+| Argent Flight | 1 | 1019 | 1019 | 8.00 | 0% | 0% (0) | 0% (0) | 100% (1) |
 | Nomad | 1 | 1016 | 1016 | 8.00 | 0% | 0% (0) | 100% (1) | 0% (0) |
 | Titans of Ul | 1 | 1012 | 1012 | 7.00 | 0% | 0% (0) | 0% (0) | 100% (1) |
-| Emirates of Hacan | 1 | 1003 | 1003 | 6.00 | 0% | 0% (0) | 0% (0) | 100% (1) |
-| Mahact Gene-Sorcerers | 1 | 1003 | 1003 | 8.00 | 0% | 0% (0) | 0% (0) | 100% (1) |
-| Vuil'raith Cabal | 3 | 974 | 993 | 6.67 | 0% | 0% (0) | 33% (1) | 0% (0) |
-| Ghosts of Creuss | 3 | 901 | 976 | 7.67 | 0% | 0% (0) | 0% (0) | 67% (2) |
-| Mentak Coalition | 1 | 968 | 968 | 8.00 | 0% | 0% (0) | 0% (0) | 0% (0) |
-| Barony of Letnev | 2 | 962 | 957 | 4.50 | 0% | 0% (0) | 0% (0) | 0% (0) |
-| Clan of Saar | 1 | 956 | 956 | 7.00 | 0% | 0% (0) | 0% (0) | 100% (1) |
-| Federation of Sol | 7 | 772 | 955 | 7.29 | 21% | 29% (2) | 14% (1) | 14% (1) |
-| Yssaril Tribes | 2 | 1006 | 946 | 7.50 | 0% | 0% (0) | 50% (1) | 0% (0) |
-| Xxcha Kingdom | 7 | 1134 | 944 | 7.00 | 14% | 14% (1) | 29% (2) | 0% (0) |
+| Emirates of Hacan | 1 | 1004 | 1004 | 6.00 | 0% | 0% (0) | 0% (0) | 100% (1) |
+| Mahact Gene-Sorcerers | 1 | 1000 | 1000 | 8.00 | 0% | 0% (0) | 0% (0) | 100% (1) |
+| Vuil'raith Cabal | 3 | 972 | 991 | 6.67 | 0% | 0% (0) | 33% (1) | 0% (0) |
+| Ghosts of Creuss | 3 | 897 | 972 | 7.67 | 0% | 0% (0) | 0% (0) | 67% (2) |
+| Clan of Saar | 1 | 968 | 968 | 7.00 | 0% | 0% (0) | 0% (0) | 100% (1) |
+| Mentak Coalition | 1 | 965 | 965 | 8.00 | 0% | 0% (0) | 0% (0) | 0% (0) |
+| Barony of Letnev | 2 | 959 | 956 | 4.50 | 0% | 0% (0) | 0% (0) | 0% (0) |
+| Xxcha Kingdom | 7 | 1132 | 947 | 7.00 | 14% | 14% (1) | 29% (2) | 0% (0) |
+| Yssaril Tribes | 2 | 1004 | 945 | 7.50 | 0% | 0% (0) | 50% (1) | 0% (0) |
+| Federation of Sol | 7 | 755 | 936 | 7.00 | 12% | 14% (1) | 14% (1) | 14% (1) |
 | Deepwrought Scholarate | 1 | 932 | 932 | 7.00 | 0% | 0% (0) | 0% (0) | 100% (1) |
-| Empyrean | 3 | 938 | 913 | 7.67 | 0% | 0% (0) | 33% (1) | 33% (1) |
+| Empyrean | 3 | 936 | 911 | 7.67 | 0% | 0% (0) | 33% (1) | 33% (1) |
 | Nekro Virus | 2 | 800 | 840 | 2.00 | 0% | 0% (0) | 0% (0) | 0% (0) |
 
 Average victory points per game are adjusted relative to 10-point games, and effective win rates are calculated relative to 6-player games.
@@ -154,7 +154,7 @@ Effective win rates are calculated relative to 6-player games.
 | 7 | 2025-05-02 | Free-for-All | 10 | 6 | 9h38m, 1st Marcio 10 Xxcha Kingdom, 2nd GabrielGodoy 9 Vuil'raith Cabal, 3rd Luis 8 Ghosts of Creuss, 4th PedroGodoy 5 Barony of Letnev, 5th Alexandre 4 Arborec, 6th Nathan 3 Federation of Sol |
 | 6 | 2025-04-19 | Free-for-All | 10 | 5 | 8h12m, 1st Luis 10 Arborec, 2nd Marcio 7 Xxcha Kingdom, 3rd Kendy 6 Emirates of Hacan, 4th Alexandre 4 Vuil'raith Cabal, 5th Jota 2 Nekro Virus |
 | 5 | 2025-03-04 | Free-for-All | 10 | 5 | 9h43m, 1st Lucas 10 Embers of Muaat, 2nd Giovanna 9 Federation of Sol, 3rd Luis 8 Mahact Gene-Sorcerers, 4th Hiago 6 Xxcha Kingdom, 5th Luana 6 Empyrean |
-| 4 | 2024-12-22 | Free-for-All | 10 | 4 | 7h27m, 1st Alexandre 10 Federation of Sol, 2nd Douglas 9 Xxcha Kingdom, 3rd Luis 7 Clan of Saar, 4th Nathan 6 Federation of Sol |
+| 4 | 2024-12-22 | Free-for-All | 10 | 4 | 7h27m, 1st Alexandre 10 Universities of Jol-Nar, 2nd Douglas 9 Xxcha Kingdom, 3rd Luis 7 Clan of Saar, 4th Nathan 6 Federation of Sol |
 | 3 | 2024-10-19 | Free-for-All | 10 | 5 | 10h46m, 1st GabrielGodoy 10 Naalu Collective, 2nd Giovanna 9 Universities of Jol-Nar, 3rd Luis 7 Titans of Ul, 4th Jean 7 Xxcha Kingdom, 5th Felipe 5 Federation of Sol |
 | 2 | 2024-02-17 | Free-for-All | 10 | 5 | 8h54m, 1st Guilherme 10 L1z1x Mindnet, 2nd Alexandre 8 Universities of Jol-Nar, 3rd Nathan 8 Federation of Sol, 4th Luis 8 Xxcha Kingdom, 5th Luana 6 Yssaril Tribes |
 | 1 | 2023-12-23 | Free-for-All | 10 | 5 | 8h39m, 1st Alexandre 10 Federation of Sol, 2nd Luis 8 Embers of Muaat, 3rd Matheus 7 Sardakk N'orr, 4th Guilherme 4 Barony of Letnev, 5th GabrielGodoy 2 Xxcha Kingdom |
